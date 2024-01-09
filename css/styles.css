@@ -293,7 +293,7 @@ body {
     background-color: #2e2f42;
     background-image: linear-gradient(rgba(46, 47, 66, 0.7),
             rgba(46, 47, 66, 0.7)),
-        url(../images/hero/Dark-bgmob@1x.jpg);
+        url('../images/Dark-bgmob@1x.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -319,7 +319,7 @@ body {
     .hero-container {
         background-image: linear-gradient(rgba(46, 47, 66, 0.7),
                 rgba(46, 47, 66, 0.7)),
-            url('../images/hero/Dark-bgmob@2x.jpg');
+            url('../images/Dark-bgmob@2x.jpg');
     }
 }
 
@@ -327,7 +327,7 @@ body {
     .hero-container {
         background-image: linear-gradient(rgba(46, 47, 66, 0.7),
                 rgba(46, 47, 66, 0.7)),
-            url('../images/hero/Dark-bgtab@1x.jpg');
+            url('../images/Dark-bgtab@1x.jpg');
     }
 }
 
@@ -335,7 +335,7 @@ body {
     .hero-container {
         background-image: linear-gradient(rgba(46, 47, 66, 0.7),
                 rgba(46, 47, 66, 0.7)),
-            url('../images/hero/Dark-bgtab@2x.jpg');
+            url('../images//Dark-bgtab@2x.jpg');
     }
 }
 
@@ -343,7 +343,7 @@ body {
     .hero-container {
         background-image: linear-gradient(rgba(46, 47, 66, 0.7),
                 rgba(46, 47, 66, 0.7)),
-            url('../images/hero/people-office-desk@1x.jpg');
+            url('../images/people-office-desk@1x.jpg');
     }
 }
 
@@ -351,7 +351,7 @@ body {
     .hero-container {
         background-image: linear-gradient(rgba(46, 47, 66, 0.7),
                 rgba(46, 47, 66, 0.7)),
-            url('../images/hero/people-office-desk@2x.jpg');
+            url('../images/people-office-desk@2x.jpg');
     }
 }
 
