@@ -1500,12 +1500,12 @@ body {
 
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1),
         visibility 250ms cubic-bezier(0.4, 0, 0.2, 1);
-    visibility: hidden;
+    visibility: hidden; 
 }
 
 .mobile-menu.is-open {
     transform: translateX(0);
-    visibility: visible;
+    visibility: visible; 
 }
 
 .mobile-menu-btn {
