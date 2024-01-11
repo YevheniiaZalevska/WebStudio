@@ -639,6 +639,30 @@ body {
     padding-bottom: 32px;
 }
 
+.social-media-list-section-three-main {
+    width: 40px;
+    height: 40px;
+}
+
+.social-media-link-section-three-main {
+    width: 100%;
+    height: 100%;
+    background-color: #4d5ae5;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.social-media-link-section-three-main:hover {
+    background-color: #404bbf;
+}
+
+.social-media-link-section-three-main:focus {
+    background-color: #404bbf;
+}
+
 /*     --- Portfolio ---        */
 
 .portfolio {
@@ -858,7 +882,6 @@ body {
     fill: currentColor;
 }
 
-.specific-icons {}
 
 /* Footer form */
 .footer-subscribe {
@@ -878,8 +901,6 @@ body {
     align-items: center;
     gap: 24px;
 }
-
-.subscribe-form-field {}
 
 .subscribe-form-input {
     min-width: 264px;
@@ -1045,8 +1066,6 @@ body {
     flex-direction: column;
 }
 
-.form {}
-
 .modal-form-div {
     margin-bottom: 8px;
 }
@@ -1150,8 +1169,6 @@ body {
     user-select: none;
 }
 
-.form-checkbox-input {}
-
 .label-checkbox-span {
     display: inline-flex;
     align-items: center;
@@ -1238,7 +1255,6 @@ body {
     }
 }
 
-.mobile-footer-container {}
 
 @media screen and (min-width: 768px) {
     .mobile-footer-container {
@@ -1259,8 +1275,6 @@ body {
         gap: 0;
     }
 }
-
-.mobile-logo-desc {}
 
 @media screen and (max-width: 767.98px) {
     .mobile-logo-desc {
@@ -1372,7 +1386,6 @@ body {
     fill: currentColor;
 }
 
-.mobile-footer-subscribe {}
 
 .mobile-footer_subscribe-text {
     font-size: 16px;
@@ -1533,8 +1546,6 @@ body {
         background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.menu-btn-icon {}
-
 .mobile-menu-list {
     margin-bottom: auto;
 }
@@ -1577,8 +1588,6 @@ body {
 .mobile-menu-contacts-item:not(:last-child) {
     margin-bottom: 24px;
 }
-
-.mobile-menu-contact {}
 
 .mobile-menu .social-list {
     justify-content: left;
